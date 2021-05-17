@@ -1,1 +1,1 @@
-# Parkinson-s-Voice-Detection
+# Parkinson's Voice Detection
